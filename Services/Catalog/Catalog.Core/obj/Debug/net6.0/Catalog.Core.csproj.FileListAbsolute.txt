@@ -1,0 +1,13 @@
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.deps.json
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.dll
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.pdb
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.AssemblyReference.cache
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfoInputs.cache
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfo.cs
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CoreCompileInputs.cache
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.sourcelink.json
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.dll
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
+G:\ANIL\Practice\.Net Microservices\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll

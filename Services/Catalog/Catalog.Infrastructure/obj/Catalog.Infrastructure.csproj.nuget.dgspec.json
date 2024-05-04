@@ -174,9 +174,6 @@
             "projectReferences": {
               "G:\\ANIL\\Practice\\.Net Microservices\\EShopping\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
                 "projectPath": "G:\\ANIL\\Practice\\.Net Microservices\\EShopping\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
-              },
-              "G:\\ANIL\\Practice\\.Net Microservices\\EShopping\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
-                "projectPath": "G:\\ANIL\\Practice\\.Net Microservices\\EShopping\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj"
               }
             }
           }
